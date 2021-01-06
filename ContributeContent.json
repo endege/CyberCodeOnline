@@ -41,7 +41,16 @@
 		"updating OnlyFans account",
 		"printing gears",
 		"inspecting local network",
-		"setting up server defense"
+		"setting up server defense",
+		"waiting for Cyberpunk bug fixes",
+		"waiting for Cyberpunk patches",
+		"waiting for dusk",
+		"CyberCoding",
+		"Contributing",
+		"placating the masses",
+		"counting sheeps",
+		"counting pennies",
+		"stealing your wallet"
 	],
 	"badGuys": [
 		"outcast",
@@ -151,7 +160,9 @@
 		"BeastMaster64",
 		"Rasputin",
 		"D.O.G.E.",
-		"Super hacker-Omnopotent God"
+		"Super hacker-Omnopotent God",
+		"Perverted Meatball",
+		"V"
 	],
 	"greetings": [
 		"hey",
@@ -207,7 +218,11 @@
 		"*farts*",
 		"y'know...",
 		"*sneeze*",
-		"*sips*"
+		"*sips*",
+		"*sigh*",
+		"well...",
+		"you see...",
+		"about that..."
 	],
 	"buildingPrefix": [
 		"the",
@@ -242,7 +257,8 @@
 		"smelly",
 		"trashed",
 		"glorious",
-		"gleaming"
+		"gleaming",
+		"graveyard"
 	],
 	"buildingTypes": [
 		"building",
@@ -348,7 +364,21 @@
 		"ascot cap",
 		"turban",
 		"patrol cap",
-		"nano-tech face shield"
+		"nano-tech face shield",
+		"facemask",
+		"white hat",
+		"black hat",
+		"yellow hat",
+		"red hat",
+		"blue hat",
+		"green hat",
+		"mask of nanobots"
+		"mask of human skin"
+		"tin cap"
+		"facepalm"
+		"cucumber mask"
+		"googles"
+		"visions"
 	],
 	"upperArmor": [
 		"shirt",
@@ -542,8 +572,9 @@
 		"moccasins",
 		"riding boots",
 		"sneakers",
-		"nitro-boost propulsor"
+		"nitro-boost propulsor",
+		"footguards",
+		"legplates"
 	],
-	"weaponSmithDefault": ["What do you want, stranger?"], 
-	"bankDefault": ["Welcome"]
+	"weaponSmithDefault": ["What do you want, stranger?"]
 }
